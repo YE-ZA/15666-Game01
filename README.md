@@ -15,7 +15,8 @@ How My Asset Pipeline Works:
 - Also, there's draw_sprite() and draw_background_tile() function to draw different tile_table;
 - Those two functions require a DrawInfo struct as parameter, which contains some useful information like which palette to use and which tile_table to draw.
 
-Here's the source file I drew:
+Here's the source file I drew using Pixil Art:
+
 ![link](asset/dragon.png)
 ![link](asset/dragon_attack.png)
 ![link](asset/grass.png)
@@ -27,5 +28,7 @@ How To Play:
 
 - Moving: Left, Right, Up, Down
 - Attack: Space
+
+(Your goal is to burn all the grass, or maybe use it for painting)
 
 This game was built with [NEST](NEST.md).
