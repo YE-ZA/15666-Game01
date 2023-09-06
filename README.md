@@ -1,4 +1,4 @@
-# (TODO: your game's title)
+# Dragon Weeder
 
 Author: Ziqi Ye
 
@@ -16,15 +16,16 @@ How My Asset Pipeline Works:
 - Those two functions require a DrawInfo struct as parameter, which contains some useful information like which palette to use and which tile_table to draw.
 
 Here's the source file I drew:
-[link](asset/dragon.png)
-[link](asset/dragon_attack.png)
-[link](asset/grass.png)
-[link](asset/soil.png)
-[link](asset/fire_01.png)
-[link](asset/fire_02.png)
+![link](asset/dragon.png)
+![link](asset/dragon_attack.png)
+![link](asset/grass.png)
+![link](asset/soil.png)
+![link](asset/fire_01.png)
+![link](asset/fire_02.png)
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+- Moving: Left, Right, Up, Down
+- Attack: Space
 
 This game was built with [NEST](NEST.md).
