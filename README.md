@@ -26,7 +26,7 @@ Here's the source file I drew using Pixil Art:
 
 How To Play:
 
-- Moving: Left, Right, Up, Down
+- Move: Left, Right, Up, Down
 - Attack: Space
 
 (Your goal is to burn all the grass, or maybe use it for painting)
